@@ -1,4 +1,4 @@
-Projeto 01 - Análise de Linguagem Ofensiva no Twitter
+# Projeto 01 - Análise de Linguagem Ofensiva no Twitter
 Este trabalho é baseado na tarefa OffensEval que acontecem no âmbito das competições anuais de Semântica Computacional - SEMEVAL, edições de 2019 e 2020.
 
 Seguem links para consulta:
