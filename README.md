@@ -1,11 +1,11 @@
-# Projeto 01 - Análise de Linguagem Ofensiva no Twitter
-Este trabalho é baseado na tarefa OffensEval que acontecem no âmbito das competições anuais de Semântica Computacional - SEMEVAL, edições de 2019 e 2020.
+<h1>Projeto 01 - Análise de Linguagem Ofensiva no Twitter</h1>
+<p>Este trabalho é baseado na tarefa OffensEval que acontecem no âmbito das competições anuais de Semântica Computacional - SEMEVAL, edições de 2019 e 2020.</p>
 
-Seguem links para consulta:
+### Seguem links para consulta:
 
-SemEval 2019
+<a href="https://alt.qcri.org/semeval2019/">SemEval 2019</a>
 
-OffensEval 2019
+<a href="https://competitions.codalab.org/competitions/20011">OffensEval 2019</a>
 
 A linguagem ofensiva é massivamente difundida nas mídias sociais. Os indivíduos freqüentemente se aproveitam do anonimato nas comunicações mediadas por computador, para se envolver em comportamentos, os quais não considerariam na vida real. Comunidades on-line, plataformas de mídia social e empresas de tecnologia têm investido fortemente em maneiras de lidar com linguagem ofensiva para evitar comportamentos abusivos nas mídias sociais.
 
