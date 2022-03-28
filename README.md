@@ -1,5 +1,5 @@
 <h1>Análise de Linguagem Ofensiva no Twitter</h1>
-<p>Este trabalho é baseado na tarefa OffensEval que acontecem no âmbito das competições anuais de Semântica Computacional - SEMEVAL, edições de 2019 e 2020.</p>
+<p>Este trabalho é baseado na tarefa <b>OffensEval</b> que acontecem no âmbito das competições anuais de <b>Semântica Computacional - SEMEVAL</b>, edições de 2019 e 2020.</p>
 
 ### Seguem links para consulta:
 
