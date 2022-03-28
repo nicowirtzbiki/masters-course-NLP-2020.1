@@ -1,4 +1,4 @@
-<h1>Projeto 01 - Análise de Linguagem Ofensiva no Twitter</h1>
+<h1>Análise de Linguagem Ofensiva no Twitter</h1>
 <p>Este trabalho é baseado na tarefa OffensEval que acontecem no âmbito das competições anuais de Semântica Computacional - SEMEVAL, edições de 2019 e 2020.</p>
 
 ### Seguem links para consulta:
@@ -11,46 +11,48 @@ A linguagem ofensiva é massivamente difundida nas mídias sociais. Os indivídu
 
 Uma das estratégias mais eficazes para resolver esse problema é usar métodos computacionais para identificar ofensas, agressões e discursos de ódio no conteúdo gerado pelo usuário (por exemplo, postagens, comentários, microblogs etc.). Em Processamento de Linguagem Natural (PLN), considera-se esta uma aplicação de classificação textual (Text Classification)
 
-Objetivos
+### Objetivos
 Neste projeto, são propostas duas abordagens para analisar discursos ofensivos em tweets:
 
-(A) Subtarefa A - Identificação de Linguagem Ofensiva
+<b>(A) Subtarefa A - Identificação de Linguagem Ofensiva</b>
 
-(NOT) Not Offensive - o tweet ou texto NÃO contem ofensa ou profanidade.
-(OFF) Offensive - o tweet ou texto contem qualquer tipo de linguagem não-aceitável (ofensa ou profanidade) ou uma ofensa direcionada (velada ou direta).
-(B) Subtarefa B: Categorização dos tipos de ofensa
+- (NOT) Not Offensive - o tweet ou texto NÃO contem ofensa ou profanidade.
+- (OFF) Offensive - o tweet ou texto contem qualquer tipo de linguagem não-aceitável (ofensa ou profanidade) ou uma ofensa direcionada (velada ou direta).
 
-(TIN) Targeted Insult and Threats - o tweet contem um insulto ou ameaça a um indivíduo, um grupo ou outros.
-(UNT) Untargeted - o tweet contem insultos, palavrões, ou ofensas não-direcionadas.
-Datasets
-Dados de Treinamento (arquivo texto simples "olid-training-v1.0.tsv")
+<b>(B) Subtarefa B: Categorização dos tipos de ofensa</b>
+
+- (TIN) Targeted Insult and Threats - o tweet contem um insulto ou ameaça a um indivíduo, um grupo ou outros.
+- (UNT) Untargeted - o tweet contem insultos, palavrões, ou ofensas não-direcionadas.
+
+### Datasets
+<b>Dados de Treinamento (arquivo texto simples "olid-training-v1.0.tsv")</b>
 
 Um conjunto com 13.240 tweets anotados com os seguintes dados:
 
-id do tweet
-texto do tweet
-label para subtarefa A
-label para subtarefa B
-label para subtarefa C (desconsiderar)
+- id do tweet
+- texto do tweet
+- label para subtarefa A
+- label para subtarefa B
+- label para subtarefa C (desconsiderar)
 
-Entregas
+### Entregas
 
-ATIVIDADE 01 - Pré-processamento dos textos (Prazo: 11/05/2020 - 30%)
+<b>Pré-processamento dos textos:</b>
 
-Tokenização
-Lematização
-POS Tagging
-Normalização (hashtags, menções, emojis e símbolos especiais)
-NER (entidades nomeadas)
-Remoção stop-words
+- Tokenização
+- Lematização
+- POS Tagging
+- Normalização (hashtags, menções, emojis e símbolos especiais)
+- NER (entidades nomeadas)
+- Remoção stop-words
 
-ATIVIDADE 02 - Representação Semântica (Prazo: 22/06/2020 - 30%)
+<b>Representação Semântica:</b>
 
-Uso de bases de conhecimento externas
-Identificação de tópicos
-Representação vetorial das palavras e textos
+- Uso de bases de conhecimento externas
+- Identificação de tópicos
+- Representação vetorial das palavras e textos
 
-ATIVIDADE 03 - Analise da Linguagem Ofensiva - Subtarefas A e B (Prazo: 27/07/2020 - 40%)
+<b>Analise da Linguagem Ofensiva - Subtarefas A e B:</b>
 
-Resultado da subtarefa A para um conjunto de teste a ser fornecido
-Resultado da subtarefa B para um conjunto de teste a ser fornecido
+- Resultado da subtarefa A para um conjunto de teste a ser fornecido
+- Resultado da subtarefa B para um conjunto de teste a ser fornecido
