@@ -32,3 +32,25 @@ texto do tweet
 label para subtarefa A
 label para subtarefa B
 label para subtarefa C (desconsiderar)
+
+Entregas
+
+ATIVIDADE 01 - Pré-processamento dos textos (Prazo: 11/05/2020 - 30%)
+
+Tokenização
+Lematização
+POS Tagging
+Normalização (hashtags, menções, emojis e símbolos especiais)
+NER (entidades nomeadas)
+Remoção stop-words
+
+ATIVIDADE 02 - Representação Semântica (Prazo: 22/06/2020 - 30%)
+
+Uso de bases de conhecimento externas
+Identificação de tópicos
+Representação vetorial das palavras e textos
+
+ATIVIDADE 03 - Analise da Linguagem Ofensiva - Subtarefas A e B (Prazo: 27/07/2020 - 40%)
+
+Resultado da subtarefa A para um conjunto de teste a ser fornecido
+Resultado da subtarefa B para um conjunto de teste a ser fornecido
